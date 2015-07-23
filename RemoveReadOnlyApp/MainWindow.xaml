@@ -1,0 +1,9 @@
+﻿<Window x:Class="RemoveReadOnlyApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ReadOnly Remover" Height="738" Width="800">
+    <Grid>
+        <ListBox ItemsSource="{Binding LogList}" Margin="10" FontFamily="Courier New" FontSize="11"/>
+
+    </Grid>
+</Window>

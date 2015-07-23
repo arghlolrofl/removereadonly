@@ -1,0 +1,12 @@
+D:\sources\test\RemoveReadOnlyApp\RemoveReadOnlyApp\bin\Release\RemoveReadOnlyApp.exe.config
+D:\sources\test\RemoveReadOnlyApp\RemoveReadOnlyApp\bin\Release\RemoveReadOnlyApp.exe
+D:\sources\test\RemoveReadOnlyApp\RemoveReadOnlyApp\bin\Release\RemoveReadOnlyApp.pdb
+D:\sources\test\RemoveReadOnlyApp\RemoveReadOnlyApp\obj\Release\MainWindow.baml
+D:\sources\test\RemoveReadOnlyApp\RemoveReadOnlyApp\obj\Release\MainWindow.g.cs
+D:\sources\test\RemoveReadOnlyApp\RemoveReadOnlyApp\obj\Release\App.g.cs
+D:\sources\test\RemoveReadOnlyApp\RemoveReadOnlyApp\obj\Release\RemoveReadOnlyApp_MarkupCompile.cache
+D:\sources\test\RemoveReadOnlyApp\RemoveReadOnlyApp\obj\Release\RemoveReadOnlyApp.g.resources
+D:\sources\test\RemoveReadOnlyApp\RemoveReadOnlyApp\obj\Release\RemoveReadOnlyApp.Properties.Resources.resources
+D:\sources\test\RemoveReadOnlyApp\RemoveReadOnlyApp\obj\Release\RemoveReadOnlyApp.csproj.GenerateResource.Cache
+D:\sources\test\RemoveReadOnlyApp\RemoveReadOnlyApp\obj\Release\RemoveReadOnlyApp.exe
+D:\sources\test\RemoveReadOnlyApp\RemoveReadOnlyApp\obj\Release\RemoveReadOnlyApp.pdb
